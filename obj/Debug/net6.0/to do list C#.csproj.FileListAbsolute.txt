@@ -1,0 +1,15 @@
+C:\Users\Moses\Documents\Projects\to do list C#\bin\Debug\net6.0\to do list C#.exe
+C:\Users\Moses\Documents\Projects\to do list C#\bin\Debug\net6.0\to do list C#.deps.json
+C:\Users\Moses\Documents\Projects\to do list C#\bin\Debug\net6.0\to do list C#.runtimeconfig.json
+C:\Users\Moses\Documents\Projects\to do list C#\bin\Debug\net6.0\to do list C#.dll
+C:\Users\Moses\Documents\Projects\to do list C#\bin\Debug\net6.0\to do list C#.pdb
+C:\Users\Moses\Documents\Projects\to do list C#\obj\Debug\net6.0\to do list C#.csproj.AssemblyReference.cache
+C:\Users\Moses\Documents\Projects\to do list C#\obj\Debug\net6.0\to do list C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moses\Documents\Projects\to do list C#\obj\Debug\net6.0\to do list C#.AssemblyInfoInputs.cache
+C:\Users\Moses\Documents\Projects\to do list C#\obj\Debug\net6.0\to do list C#.AssemblyInfo.cs
+C:\Users\Moses\Documents\Projects\to do list C#\obj\Debug\net6.0\to do list C#.csproj.CoreCompileInputs.cache
+C:\Users\Moses\Documents\Projects\to do list C#\obj\Debug\net6.0\to do list C#.dll
+C:\Users\Moses\Documents\Projects\to do list C#\obj\Debug\net6.0\refint\to do list C#.dll
+C:\Users\Moses\Documents\Projects\to do list C#\obj\Debug\net6.0\to do list C#.pdb
+C:\Users\Moses\Documents\Projects\to do list C#\obj\Debug\net6.0\to do list C#.genruntimeconfig.cache
+C:\Users\Moses\Documents\Projects\to do list C#\obj\Debug\net6.0\ref\to do list C#.dll
